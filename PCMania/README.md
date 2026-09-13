@@ -2,7 +2,7 @@ Nome: Yuri Guimenti Chiarini de Faria
 
 Matricula: 2182
 
-Curso: Engenharia de Computacao
+Curso: Engenharia de Computação
 
 Documentos do Word com os chats com a IA: 
 
